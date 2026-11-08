@@ -2,6 +2,7 @@
 
 App Android para não esquecer de pagar as contas.
 
+- Aba **Assistente**: escreva "conta de luz 180 todo dia 10" ou "paguei a luz" e o app faz sozinho
 - Mostra o próximo pagamento, as contas atrasadas e um calendário do mês
 - Avisa no celular um dia antes e no dia de cada vencimento
 - Contas que se repetem todo mês, parcelamentos e contas com valor que muda
