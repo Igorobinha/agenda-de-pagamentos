@@ -5,10 +5,10 @@
     "url": "https://github.com/Igorobinha/agenda-de-pagamentos/releases/latest/download/AgendaDePagamentos.apk"
   },
   "web": {
-    "versao": 2,
-    "url": "https://github.com/Igorobinha/agenda-de-pagamentos/releases/download/telas-2/telas-2.zip",
-    "sha256": "1c2a805ed018377b2e2c70c80e73e568b0258935c2ea9efd42b0812357f899f0",
+    "versao": 3,
+    "url": "https://github.com/Igorobinha/agenda-de-pagamentos/releases/download/telas-3/telas-3.zip",
+    "sha256": "e82fa09c6fa941079e31aa3944687c03a98d5e06ae4ddd2a7cc86e2338cab56c",
     "minNativo": 4
   },
-  "atualizadoEm": "2026-11-08T21:46:33.730Z"
+  "atualizadoEm": "2026-11-08T22:22:06.163Z"
 }
